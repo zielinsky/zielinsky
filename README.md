@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @zielinsky [Patryk Zieliński]
 - 🌱 I’m currently learning React
+- 💻 Computer Science Student at
+- 🏫 University of Wroclaw
 - 📫 MrZ133612@gmail.com or patrykzielinskiti@gmail.com
 
 <!---
