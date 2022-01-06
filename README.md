@@ -6,7 +6,7 @@
 ### My projects
 |**Project**|**Description**|
 |:---|:---|
-|♟ **[Chess GUI](https:/github.com/zielinsky/chess)**|Working on ChessAI based on minmax + alpha beta pruning|
+|♟ **[Chess GUI](https://github.com/zielinsky/chess)**|Working on ChessAI based on minmax + alpha beta pruning|
 
 <!---
 zielinsky/zielinsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
