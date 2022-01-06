@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zielinsky [Patryk Zieliński]
+### 👋 Hi, I’m Patryk Zieliński @zielinsky 
 - 💻 Computer Science Student
-- 🏫 University of Wroclaw
+  - 🏫 University of Wroclaw
 - 📫 MrZ133612@gmail.com or patrykzielinskiti@gmail.com
 
 ### My projects
