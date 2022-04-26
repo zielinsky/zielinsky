@@ -7,7 +7,7 @@
 |**Project**|**Description**|
 |:---|:---|
 |♟ **[Chess](https://github.com/zielinsky/chess)**|Collage project for Introduction to C|
-|🔨 **[management-system](https://github.com/zielinsky/management-system)**|Final collage project for OOP|
+|🔨 **[management-system](https://github.com/zielinsky/management-system)**|Collage project for OOP|
 
 
 <!---
