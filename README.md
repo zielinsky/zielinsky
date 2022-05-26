@@ -18,7 +18,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kabanosk&theme=dark&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zielinsky&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
 ### 🤝🏻 Connect with Me
 <a href="mailto:patrykzielinskiti@gmail.com"><img src="https://img.shields.io/badge/patrykzielinskiti@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
