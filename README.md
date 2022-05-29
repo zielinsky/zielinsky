@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @zielinsky, Computer Science Student at University of Wrocław.<br/>
-🤖 I’m interested in .NET and ASP.NET .<br/>
+🤖 I’m interested in Software Development.<br/>
 
 ### :hammer_and_wrench: Tech Stack
 
