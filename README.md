@@ -1,6 +1,7 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @zielinsky, Computer Science Student at University of Wrocław.<br/>
 🤖 I’m interested in Backend development.<br/>
+https://leetcode.com/zielinsky/
 
 ### :hammer_and_wrench: Tech Stack
 
